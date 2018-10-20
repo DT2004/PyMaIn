@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-x = input("Please insert the first number ")
-y = input("Please insert the second number ")
+x = input("Please insert the first number: ")
+y = input("Please insert the second number: ")
 
-print "The score is =", x + y
+print("The score is =", x + y)
 quit()
